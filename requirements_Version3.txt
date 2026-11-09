@@ -1,0 +1,3 @@
+pdf417gen
+pdf417decoder
+Pillow
